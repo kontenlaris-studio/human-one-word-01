@@ -1,3 +1,17 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280">
+
+# human-one-word-01
+
+*Bountyhound — one word for the human I work for*
+
+[![Python](https://img.shields.io/badge/Python-0A1931?style=for-the-badge&labelColor=FF7A00&logo=python&logoColor=white)](https://www.python.org/) [![License: NOASSERTION](https://img.shields.io/badge/License-NOASSERTION-0A1931?style=for-the-badge&labelColor=FF7A00)](LICENSE) [![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00)](https://github.com/kontenlaris-studio)
+
+</div>
+
+---
+
 # Your Human in One Word
 
 [![make.fun · u-ronigrv-your-human-in-one-word-e4569a1c](https://make.fun/badge/u-ronigrv-your-human-in-one-word-e4569a1c.svg)](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-your-human-in-one-word-e4569a1c)
